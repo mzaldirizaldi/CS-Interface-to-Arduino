@@ -56,6 +56,8 @@ namespace WPF_Training_Week_1
 
                 button_unoOpen.IsEnabled = false;
                 button_unoClose.IsEnabled = false;
+                button_ledTurnOn.IsEnabled = true;
+                button_ledTurnOff.IsEnabled = true;
                 progressBar_uno.Value = 100;
                 MessageBox.Show("Connected to Arduino UNO", "Information", MessageBoxButton.OK, MessageBoxImage.Information);
             }
@@ -84,6 +86,51 @@ namespace WPF_Training_Week_1
         private void comboBox_unoComPort_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
 
+        }
+
+        private void button_ledTurnOn_Click(object sender, EventArgs e)
+        {
+            if (SerialPort_uno.IsOpen)
+            {
+                try
+                {
+                    SerialPort_uno.Write("uON#");
+                }
+                catch (Exception error)
+                {
+                    MessageBox.Show(error.Message);
+                }
+            }
+        }
+
+        private void button_ledTurnOff_Click(object sender, EventArgs e)
+        {
+            if (SerialPort_uno.IsOpen)
+            {
+                try
+                {
+                    SerialPort_uno.Write("uOFF#");
+                }
+                catch (Exception error)
+                {
+                    MessageBox.Show(error.Message);
+                }
+            }
+        }
+
+        private void MainWindow_Closing(object sender, SessionEndingCancelEventArgs e)
+        {
+            if (SerialPort_uno.IsOpen)
+            {
+                try
+                {
+                    SerialPort_uno.Close();
+                }
+                catch (Exception error)
+                {
+                    MessageBox.Show(error.Message);
+                }
+            }
         }
     }
 }
