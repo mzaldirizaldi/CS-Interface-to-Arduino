@@ -1,0 +1,11 @@
+C:\Users\LENOVO\source\repos\6 September 2022\WPF Training Week 1 With Potentiometer\WPF Training Week 1 With Potentiometer\obj\Debug\WPF Training Week 1 With Potentiometer.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\6 September 2022\WPF Training Week 1 With Potentiometer\WPF Training Week 1 With Potentiometer\obj\Debug\WPF Training Week 1 With Potentiometer.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\source\repos\6 September 2022\WPF Training Week 1 With Potentiometer\WPF Training Week 1 With Potentiometer\obj\Debug\WPF_Training_Week_1_With_Potentiometer.Form1.resources
+C:\Users\LENOVO\source\repos\6 September 2022\WPF Training Week 1 With Potentiometer\WPF Training Week 1 With Potentiometer\obj\Debug\WPF_Training_Week_1_With_Potentiometer.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\6 September 2022\WPF Training Week 1 With Potentiometer\WPF Training Week 1 With Potentiometer\obj\Debug\WPF Training Week 1 With Potentiometer.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\6 September 2022\WPF Training Week 1 With Potentiometer\WPF Training Week 1 With Potentiometer\obj\Debug\WPF Training Week 1 With Potentiometer.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\6 September 2022\WPF Training Week 1 With Potentiometer\WPF Training Week 1 With Potentiometer\bin\Debug\WPF Training Week 1 With Potentiometer.exe.config
+C:\Users\LENOVO\source\repos\6 September 2022\WPF Training Week 1 With Potentiometer\WPF Training Week 1 With Potentiometer\bin\Debug\WPF Training Week 1 With Potentiometer.exe
+C:\Users\LENOVO\source\repos\6 September 2022\WPF Training Week 1 With Potentiometer\WPF Training Week 1 With Potentiometer\bin\Debug\WPF Training Week 1 With Potentiometer.pdb
+C:\Users\LENOVO\source\repos\6 September 2022\WPF Training Week 1 With Potentiometer\WPF Training Week 1 With Potentiometer\obj\Debug\WPF Training Week 1 With Potentiometer.exe
+C:\Users\LENOVO\source\repos\6 September 2022\WPF Training Week 1 With Potentiometer\WPF Training Week 1 With Potentiometer\obj\Debug\WPF Training Week 1 With Potentiometer.pdb
